@@ -1,0 +1,20 @@
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Server\bin\Debug\Server.exe.config
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Server\bin\Debug\Server.exe
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Server\bin\Debug\Server.pdb
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Server\bin\Debug\Common.dll
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Server\bin\Debug\Common.pdb
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Server\obj\Debug\Server.exe
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Server\obj\Debug\Server.pdb
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Server\bin\Debug\Server.exe.config
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Server\bin\Debug\Server.exe
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Server\bin\Debug\Server.pdb
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Server\bin\Debug\Common.dll
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Server\bin\Debug\Common.pdb
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Server\obj\Debug\Server.exe
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Server\obj\Debug\Server.pdb

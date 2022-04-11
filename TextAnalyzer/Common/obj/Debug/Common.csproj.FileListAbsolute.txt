@@ -1,0 +1,12 @@
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Common\bin\Debug\Common.dll
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Common\bin\Debug\Common.pdb
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Common\obj\Debug\Common.dll
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Common\obj\Debug\Common.pdb
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Common\bin\Debug\Common.dll
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Common\bin\Debug\Common.pdb
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Common\obj\Debug\Common.dll
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Common\obj\Debug\Common.pdb

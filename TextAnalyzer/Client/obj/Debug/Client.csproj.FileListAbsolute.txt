@@ -1,0 +1,24 @@
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Client\bin\Debug\Bohemian Rhapsody.txt
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Client\bin\Debug\The Show Must Go On.txt
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Client\bin\Debug\Client.exe.config
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Client\bin\Debug\Client.exe
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Client\bin\Debug\Client.pdb
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Client\bin\Debug\Common.dll
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Client\bin\Debug\Common.pdb
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Client\obj\Debug\Client.exe
+C:\Users\yuval.h\Documents\Visual Studio 2019\Projects\TextAnalyzer\Client\obj\Debug\Client.pdb
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Client\bin\Debug\Bohemian Rhapsody.txt
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Client\bin\Debug\The Show Must Go On.txt
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Client\bin\Debug\Client.exe.config
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Client\bin\Debug\Client.exe
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Client\bin\Debug\Client.pdb
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Client\bin\Debug\Common.dll
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Client\bin\Debug\Common.pdb
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Client\obj\Debug\Client.exe
+C:\Users\user-pc\Desktop\work!\TextAnalyzer\Client\obj\Debug\Client.pdb
